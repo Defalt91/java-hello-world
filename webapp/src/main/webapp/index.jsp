@@ -14,10 +14,9 @@
 				<hr />
 				<label for="email"><b>Email</b></label>
 				<input type="email" placeholder="Enter Email" name="email" id="email" required />
-
+				<br />
 				<label for="password"><b>Password</b></label>
 				<input type="password" placeholder="Enter Password" name="password" id="password" required />
-
 				<label for="confirnpass"><b>Confirm Password</b></label>
 				<input type="password" placeholder="Repeat Password" name="confirnpass" id="confirnpass" required />
 				<hr />
